@@ -171,12 +171,10 @@ class Login extends Component {
                   <div className="col-three-forth">
                     <img
                       style={{
-                        float: "right",
-                        marginRight: "7em",
-                        paddingTop: "4em"
+                        paddingTop: "6em"
                       }}
                       className="hero-img js-fullheight img-fluid "
-                      src="https://im0-tub-ru.yandex.net/i?id=73dcc9edfa6a7e0d8321fd92475e2c32-l&n=13"
+                      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ferranti_two-phase_generator_set_%28Rankin_Kennedy%2C_Electrical_Installations%2C_Vol_III%2C_1903%29.jpg/676px-Ferranti_two-phase_generator_set_%28Rankin_Kennedy%2C_Electrical_Installations%2C_Vol_III%2C_1903%29.jpg"
                     />
                   </div>
 
